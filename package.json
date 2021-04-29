@@ -1,10 +1,7 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "hello-express",
+  "name": "@nefomemes/simpleradiobot",
   "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -15,15 +12,10 @@
     "@discordjs/opus": "^0.3.2"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url":"https://github.com/Nefomemes/RadioDiscordBot.git"
   },
   "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
 }
